@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/count-exam/static/css/main.11f0238b.css",
+    "main.js": "/count-exam/static/js/main.bc14363a.js",
+    "static/js/787.2b9a81c4.chunk.js": "/count-exam/static/js/787.2b9a81c4.chunk.js",
+    "index.html": "/count-exam/index.html",
+    "main.11f0238b.css.map": "/count-exam/static/css/main.11f0238b.css.map",
+    "main.bc14363a.js.map": "/count-exam/static/js/main.bc14363a.js.map",
+    "787.2b9a81c4.chunk.js.map": "/count-exam/static/js/787.2b9a81c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11f0238b.css",
+    "static/js/main.bc14363a.js"
+  ]
+}
